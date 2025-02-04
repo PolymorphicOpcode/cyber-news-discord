@@ -3,6 +3,7 @@ import sqlite3
 import time
 from datetime import datetime, timedelta
 
+
 # List of feeds to process
 FEEDS = [
     "https://www.darkreading.com/rss.xml",
